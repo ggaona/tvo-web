@@ -1,0 +1,159 @@
+.recentcomments a {
+  display: inline !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.colour {
+  color: #50a2c8;
+}
+
+a {
+  color: #50a2c8;
+}
+
+a:hover {
+  color: #333;
+}
+
+::selection {
+  background: #50a2c8;
+  color: #fff;
+}
+
+::-moz-selection {
+  background: #50a2c8;
+  color: #fff;
+}
+
+blockquote {
+  border-left: 4px solid #50a2c8!important;
+}
+
+.btn,
+#ajax-contact-form2 input[type="submit"] {
+  background-color: #E84E40!important;
+}
+
+.btn-inverse:hover {
+  background-color: #E84E40!important;
+}
+
+#menu li a:hover,
+#menu a:focus,
+#menu a.active {
+  color: #50a2c8!important;
+  background-color: transparent;
+}
+
+.colour-section {
+  color: #f0f0f0!important;
+  background: #50a2c8!important;
+}
+
+.colour-section .lead,
+.colour-section h1 {
+  color: #f0f0f0!important;
+}
+
+.footer a {
+  color: #50a2c8!important;
+}
+
+.footer a:hover {
+  color: #999!important;
+}
+/**** CIRCLE LINK ****/
+
+.circle {
+  background: #50a2c8!important;
+}
+
+.circle:hover {
+  background: #2E3138!important;
+}
+/*  ---------------------------------------------------------------
+SERVICE ICONS
+--------------------------------------------------------------- */
+
+.service {
+  background: #50a2c8!important;
+}
+/*  ---------------------------------------------------------------
+PROGRESS BARS/SKILL BARS
+--------------------------------------------------------------- */
+
+.bars-wrapper .progress-bar {
+  background: #50a2c8!important;
+}
+/*  ---------------------------------------------------------------
+TEAM ICONS
+--------------------------------------------------------------- */
+
+.hi-icon2 {
+  color: #50a2c8!important;
+}
+
+.hi-icon-effect-a .hi-icon2 {
+  box-shadow: 0 0 0 3px #50a2c8!important;
+}
+
+.no-touch .hi-icon-effect-a1 .hi-icon2:hover {
+  color: #50a2c8!important;
+}
+
+.hi-icon-effect-a .hi-icon2:after {
+  background: #50a2c8!important;
+  color: #50a2c8!important;
+}
+/*  ---------------------------------------------------------------
+HOVER CAPTIONS ( TEAM - VIEW PROFILE + WORK - VIEW BUTTONS
+--------------------------------------------------------------- */
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+  color: #fff!important;
+  background-color: #50a2c8!important;
+}
+/*  ---------------------------------------------------------------
+PORTFOLIO FILTERS
+--------------------------------------------------------------- */
+
+.cbp-l-filters-button .cbp-filter-item-active {
+  background-color: #50a2c8!important;
+  color: #fff !important;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+  background-color: #50a2c8!important;
+  color: #fff!important;
+}
+
+.cbp-l-filters-button .cbp-filter-counter:before {
+  border-top: 4px solid #50a2c8!important;
+}
+
+.nav-tabs .active a,
+.nav-tabs a:hover,
+.nav-tabs .active a:focus {
+  background-color: #50a2c8!important;
+}
+
+.footer {
+  background: #2E3138;
+}
+
+#header {
+  top: 0 !important;
+}
+
+.admin-bar #header {
+  top: 32px !important;
+}
+
+.menu-item-98 a {
+  background: #06a2c2;
+  border-radius: 5px;
+  color: #fff !important;
+  padding: 10px;
+}
